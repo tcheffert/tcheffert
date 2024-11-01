@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻​ Professional coder since 1804<br>🎓​ EPL - Computer Scientist<br>🍯​ Busy eating syntaxic sugar
+💻​ Professional coder since **1804**<br>🎓​ EPL - Computer Scientist<br>🍯​ Busy eating syntaxic sugar
 
 
 ## 🌐 Socials:
