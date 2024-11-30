@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻​ Professional coder since **1804**<br>🎓​ EPL - Studying Computer Science<br>💬​ English & French<br>🍯​ Busy eating syntaxic sugar
+💻​ Professional coder since **1804**<br>🎓​ B.Sc. Computer Science (3rd year) | UCLouvain<br>💬​ English & French<br>🍯​ Busy eating syntaxic sugar
 
 
 ## 🌐 Socials:
